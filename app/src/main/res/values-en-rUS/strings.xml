@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GuessNumber</string>
+    <string name="txtNom">Name</string>
+    <string name="txtIntentos">" Enter Number"</string>
+    <string name="btnPlay">!To play!</string>
+    <string name="tvIntentos">" Attempts:"</string>
+    <string name="tvNombre">Name:</string>
+    <string name="tvResulFin">" The number is:"</string>
+    <string name="btnComprobar">" Check"</string>
+</resources>
